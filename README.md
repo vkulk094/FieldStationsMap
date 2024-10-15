@@ -3,7 +3,7 @@
 # Field Stations Map
 
 ## Overview
-**FieldStationsMap** is an interactive map application that displays the locations of several field stations on Google Maps. This map is designed for ease of use, especially for students in the BIO2137 course who need to quickly locate and navigate to specific stations.
+**FieldStationsMap** is an interactive map application that displays the locations of several field stations on Google Maps. This map is designed by me for Dr. Gabriel Guillet at the University of Ottawa, for ease of use, especially for students in the BIO2137 course who need to quickly locate and navigate to specific stations on their field trip to Gatineau park.
 
 The app also includes real-time GPS tracking, allowing users to find their current location on the map and follow their movements.
 
